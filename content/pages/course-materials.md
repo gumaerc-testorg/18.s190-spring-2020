@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Course Materials
 uid: 360d78e0-0cee-73e3-a50d-05e13bac07be
 ---
