@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section links to the homework assignments on the GitHub site developed
+  for the course
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: df9362ec-033d-93ba-4e66-7c54450719fa
 ---

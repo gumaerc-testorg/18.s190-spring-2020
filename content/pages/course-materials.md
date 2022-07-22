@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section links to all of the course materials that are available
+  on the GitHub site developed for the course
+learning_resource_types: []
+ocw_type: CourseSection
 title: Course Materials
 uid: 360d78e0-0cee-73e3-a50d-05e13bac07be
 ---
@@ -113,7 +117,7 @@ other resources
 {{< tdopen >}}
 
 
-<none> 
+\<none> 
 
 
 {{< tdclose >}}
@@ -136,7 +140,7 @@ other resources
 {{< tdopen >}}
 
 
-<none> 
+\<none> 
 
 
 {{< tdclose >}}
@@ -206,7 +210,7 @@ other resources
 {{< tdopen >}}
 
 
-<none> 
+\<none> 
 
 
 {{< tdclose >}}
@@ -229,7 +233,7 @@ other resources
 {{< tdopen >}}
 
 
-<none> 
+\<none> 
 
 
 {{< tdclose >}}
@@ -241,7 +245,7 @@ other resources
 (April 29, 2020)
 {{< tdclose >}}
 {{< tdopen >}}
-<none>
+\<none>
 {{< tdclose >}}
 {{< tdopen >}}
 ﻿[Lecture 9 Video](https://mit.zoom.us/rec/share/649pLprc8WNIco3f9V7kC4wKJdzjeaa80XQb__UKzBt2XiCyIvtsoULwI_jWE4Ae)  
@@ -252,7 +256,7 @@ other resources
 {{< tdopen >}}
 
 
-<none>
+\<none>
 
 
 {{< tdclose >}}
@@ -270,12 +274,12 @@ other resources
 ﻿[Lecture 10 Video](https://mit.zoom.us/rec/play/7518IuH6qzw3ToaVsASDVqRxW9XsLf2s0iYb-PMOzU22VXUEY1quY-ARa7NLJy4EoyF2cTZfZ0CsDdCy?continueMode=true) 
 {{< tdclose >}}
 {{< tdopen >}}
-<none>
+\<none>
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-﻿<none>
+﻿\<none>
 
 
 {{< tdclose >}}
@@ -293,12 +297,12 @@ other resources
 ﻿[Lecture 11 Video](https://mit.zoom.us/rec/play/uscrJO6s_W43GtzGuQSDVqB5W43uKq-sgHUZrqIEmk69AXhVZFOiN-FAa-JUrxTFKA3zRiz2ZyJnYDE?continueMode=true)  
 {{< tdclose >}}
 {{< tdopen >}}
-<none>
+\<none>
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-﻿<none>
+﻿\<none>
 
 
 {{< tdclose >}}
@@ -321,7 +325,7 @@ other resources
 {{< tdopen >}}
 
 
-<none>
+\<none>
 
 
 {{< tdclose >}}
