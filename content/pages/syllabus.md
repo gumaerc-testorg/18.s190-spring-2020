@@ -31,7 +31,7 @@ This course was offered entirely online while the MIT campus was shut down due t
 Technical Requirements
 ----------------------
 
-Student need to install the Julia programming language, as well as other tools and packages. Complete instructions are listed on the [GitHub course page](https://github.com/mitmath/6S083).
+Student need to install the Julia programming language, as well as other tools and packages. Complete instructions are listed on the {{% resource_link "5ce0006e-8c80-4d04-8c22-0164fce73007" "GitHub course page" %}}.
 
 Problem Sets & Exams
 --------------------
