@@ -8,7 +8,7 @@ title: Course Materials
 uid: 360d78e0-0cee-73e3-a50d-05e13bac07be
 ---
 
-All of the materials linked on this page are available on the [original GitHub site developed for the course](https://github.com/mitmath/6S083/blob/master/syllabus.md).
+All of the materials linked on this page are available on the {{% resource_link "3bdca789-91af-49db-b0ba-f2ae03e3d724" "original GitHub site developed for the course" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -40,36 +40,36 @@ other resources
 {{< tdopen >}}
 
 
-[Welcome Slides](https://docs.google.com/presentation/d/1S8PjNJoKDOqjZM1mkhFwfLMFMzA7DOy8tOODfJxSH6Q/)
+{{% resource_link "a753ab13-d143-4e5b-994c-d59e080e182b" "Welcome Slides" %}}
 
-[Lecture 1 Slides](https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/01.%20Introduction%20to%20Julia.pdf)
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-[Welcome Video](https://video.odl.mit.edu/videos/25acbf684dbd4fb18caa694dc1e9cb4a/)
-
-[Data Analysis](https://video.odl.mit.edu/videos/6fd61898f9c841bfbf79c7163a2c960d/)
+{{% resource_link "90576fa6-8847-4451-ba5e-934fa3a12419" "Lecture 1 Slides" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Exploring Data on Covid-19](https://nbviewer.jupyter.org/github/mitmath/6S083/blob/c7e60979a98ea733d144483a296687a6370a333d/lectures/live/01%20-%20Exploring%20COVID-19%20data.ipynb)
+{{% resource_link "16c0dac7-f9e7-4150-b7fe-da24c44f5b96" "Welcome Video" %}}
+
+{{% resource_link "a0734f53-4a90-4f15-9306-2f1e4b7781b3" "Data Analysis" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Video: 3Blue1Brown:Simulating an Epidemic](https://www.youtube.com/watch?v=gxAaO2rsdIs&feature=youtu.be&t=1) 
+{{% resource_link "918b118c-a564-42a0-8b62-7b44e71af7fd" "Exploring Data on Covid-19" %}}
 
-[Video: How to Tell If We're Beating COVID-19](https://www.youtube.com/watch?v=54XLXg4fYsc)
 
-[Blog: COVID-19 in Denmark](https://doktormike.gitlab.io/post/covid-19/)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+{{% resource_link "d0564cee-b251-476e-84e8-2b7f63f6336b" "Video: 3Blue1Brown:Simulating an Epidemic" %}} 
+
+{{% resource_link "ed7c9640-b1c8-401f-a416-670f683176a0" "Video: How to Tell If We're Beating COVID-19" %}}
+
+{{% resource_link "8adae880-39d6-43d2-9e92-083d379e0f8f" "Blog: COVID-19 in Denmark" %}}
 
 
 {{< tdclose >}}
@@ -81,20 +81,20 @@ other resources
 (April 1, 2020)
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 2 Slides](https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/02.%20Introduction%20to%20modelling.pdf)
+{{% resource_link "7cd16464-80d8-4c5a-90f0-dea51ffd5a66" "Lecture 2 Slides" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 2 Video](https://mit.zoom.us/rec/play/tZcqJu2hrWk3EoCU5ASDA6JwW43rJqOs0nQb8voJmEjgBnQBNVvybrFANuBdT4BwqQyhLs2fsHc_EOcH?continueMode=true&_x_zm_rtaid=ASHU40TnQm6DiHQVTVcqtg.1586018029563.8875e6e3159640b6b791712564660e4c&_x_zm_rhtaid=946)
+{{% resource_link "4820223d-bdfc-425f-9907-46dedb5f5afb" "Lecture 2 Video" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Exponential and Logistic Growth](https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/02%20-%20Exponential%20and%20logistic%20growth.ipynb)
+{{% resource_link "1552ca88-b617-4256-9cd1-a7c010a0f2f3" "Exponential and Logistic Growth" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Covid-19 Trajectory](https://aatishb.com/covidtrends/)
+{{% resource_link "40b2db04-1263-41dd-bbb7-9481f2a77332" "Covid-19 Trajectory" %}}
 
-[xkcd comic "Scenario 4"](https://xkcd.com/2289/)
+{{% resource_link "ce277ef0-3458-4ce9-915d-e841bebd4d5e" "xkcd comic \"Scenario 4\"" %}}
 
 
 {{< tdclose >}}
@@ -106,13 +106,13 @@ other resources
 (April 6, 2020)
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 3 Slides](https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/03.%20Probability.pdf)
+{{% resource_link "0873bc60-2770-4d93-abb1-5d003655b933" "Lecture 3 Slides" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 3 Video](https://mit.zoom.us/rec/share/vdNMC4yg3W9ISZXV5XvyXLQ4PYHUaaa8g3cW__UNyUrv2YVoyW8RMCvfmWE2Axxk)
+{{% resource_link "b8adcb1a-7ce4-4fa3-a177-b04ca745a2a8" "Lecture 3 Video" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Modelling Recovery with Probability](https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/03%20-%20Modelling%20recovery%20process%20using%20probability.ipynb)
+{{% resource_link "c6591913-443e-4d5c-b8c3-bd3cf67132bc" "Modelling Recovery with Probability" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -129,13 +129,13 @@ other resources
 (April 8, 2020)
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 4 Slides](https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/04.%20Probability%20II%20and%20random%20walks.pdf)
+{{% resource_link "c686d17d-945f-4cbd-a4ce-b19959b6c487" "Lecture 4 Slides" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 4 Video](https://mit.zoom.us/rec/share/_tBoKZ7Z0UpJX6-O6kfcQrERBo3veaa8hCMa_6VZn024oOZsopE1_HE1CF0ZnpLB?startTime=1586372102000)
+{{% resource_link "b1ea8968-d03f-4e96-98b6-4c72015ff1e3" "Lecture 4 Video" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Random Walks](https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/04%20-%20Random%20walks.ipynb)
+{{% resource_link "1da50fb0-c3bd-4878-b876-c8f2a71d096b" "Random Walks" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -152,18 +152,18 @@ other resources
 (April 13, 2020)
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 5 Slides](https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/05.%20Variability%20and%20custom%20types.pdf)
+{{% resource_link "3bcf06fd-b703-4f06-9269-c506d687a426" "Lecture 5 Slides" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 5 Video](https://mit.zoom.us/rec/share/y8x_No_QriBIXtbPs2vQc54oGK3oaaa80HUZrqVbxUz8o_RDWEGav3XoJN54wLpx) 
+{{% resource_link "36d1dda1-6cc9-4de7-9207-906a22e31f50" "Lecture 5 Video" %}} 
 {{< tdclose >}}
 {{< tdopen >}}
-[Variability and Custom Types](https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/05%20-%20Variability%20and%20custom%20types.ipynb) 
+{{% resource_link "001e093c-9f2c-480e-8f89-783c0c3400f7" "Variability and Custom Types" %}} 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Video: Covid-19 3 Blue 1 Brown](https://youtu.be/Kas0tIxDvrg) 
+{{% resource_link "16ef0361-3dc5-44ff-b409-fc2ceab64434" "Video: Covid-19 3 Blue 1 Brown" %}} 
 
 
 {{< tdclose >}}
@@ -175,18 +175,18 @@ other resources
 (April 15, 2020)
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 6 Slides](https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/06.%20Defining%20new%20types%20to%20represent%20data.pdf)
+{{% resource_link "b4fd18a7-5adb-4091-95bd-2a64c83107ea" "Lecture 6 Slides" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 6 Video](https://mit.zoom.us/rec/share/2tV7C66r2jhObKPs1WbcZqInRa3ZX6a8gyVL_aZbyUkq9TEEKy-uFAPg0XBUN6gF) 
+{{% resource_link "39669424-ffff-47d3-9f3e-dcbdbc3a0641" "Lecture 6 Video" %}} 
 {{< tdclose >}}
 {{< tdopen >}}
-[Defining New Types](https://nbviewer.jupyter.org/github/mitmath/6S083/blob/c4720cd0e8d96e2991d888a8a21cd41cdc1d46c7/lectures/live/06%20-%20Defining%20new%20types.ipynb)
+{{% resource_link "b69660a0-01a6-4561-a7f4-03510e24ebab" "Defining New Types" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Epidemic Calculator](https://gabgoh.github.io/COVID/index.html) 
+{{% resource_link "6a3024ec-7452-4053-aece-eb7b1375a722" "Epidemic Calculator" %}} 
 
 
 {{< tdclose >}}
@@ -198,13 +198,13 @@ other resources
 (April 22, 2020)
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 7 Slides](https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/07.%20Markov%20chains%20and%20continuous%20random%20variables.pdf)
+{{% resource_link "49fd05ad-ab7a-4c06-8dbe-11f8e698c19a" "Lecture 7 Slides" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 7 Video](https://mit.zoom.us/rec/play/6JYkduqhqDg3GNKVsgSDU_UrW9W6f_6shCgZqPMIzBu3VSRQYwH1b-MRZ19I4LA6s9Zkgkii3hRa3Dg?continueMode=true)  
+{{% resource_link "daa0bf78-ecc0-4247-b4a3-613048126f38" "Lecture 7 Video" %}}  
 {{< tdclose >}}
 {{< tdopen >}}
-[Markov Chains and Continuous Random Variables](https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/07%20-%20Markov%20chains%20and%20continuous%20random%20variables.ipynb)  
+{{% resource_link "64a586d2-8560-4360-8d56-167aeb4145a4" "Markov Chains and Continuous Random Variables" %}}  
  
 {{< tdclose >}}
 {{< tdopen >}}
@@ -222,13 +222,13 @@ other resources
 (April 27, 2020)
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 8 Slides](https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/08.%20Continuous%20random%20variables.pdf)
+{{% resource_link "8a9ab03b-06dd-4026-925b-4de77ac0d121" "Lecture 8 Slides" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-﻿[Lecture 8 Video](https://mit.zoom.us/rec/share/vdBRMbb26n1IWKvR2m7VZ6MzPLr-aaa8hyIX_fZemhqJWjQumKaAbjQ0_4I39fBi)  
+﻿{{% resource_link "b794f14f-cc21-47b3-b6ca-6f97da2fb208" "Lecture 8 Video" %}}  
 {{< tdclose >}}
 {{< tdopen >}}
-[Continuous Time](https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/08%20-%20Continuous%20time.ipynb)
+{{% resource_link "bcae3e48-dda5-4aad-95e0-c730a2f91a8c" "Continuous Time" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -248,10 +248,10 @@ other resources
 \<none>
 {{< tdclose >}}
 {{< tdopen >}}
-﻿[Lecture 9 Video](https://mit.zoom.us/rec/share/649pLprc8WNIco3f9V7kC4wKJdzjeaa80XQb__UKzBt2XiCyIvtsoULwI_jWE4Ae)  
+﻿{{% resource_link "914fca74-5ea0-4f9d-90bb-203453120c3c" "Lecture 9 Video" %}}  
 {{< tdclose >}}
 {{< tdopen >}}
-[Exponential Distribution](https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/09%20-%20Exponential%20distribution.ipynb)
+{{% resource_link "e2a818b7-095d-494f-af2a-e291fef25e3e" "Exponential Distribution" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -268,10 +268,10 @@ other resources
 (May 4, 2020)
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 10 Slides](https://docs.google.com/presentation/d/1mL1tqBfyAZm2GEM-cIjpeVjr5zNkmXYO5-8mgV-ecVM/edit?usp=sharing)
+{{% resource_link "c60afe79-9b06-4c72-9f52-e08fc9a13a73" "Lecture 10 Slides" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-﻿[Lecture 10 Video](https://mit.zoom.us/rec/play/7518IuH6qzw3ToaVsASDVqRxW9XsLf2s0iYb-PMOzU22VXUEY1quY-ARa7NLJy4EoyF2cTZfZ0CsDdCy?continueMode=true) 
+﻿{{% resource_link "6322edcd-7901-47e6-9181-3628dbb8fefc" "Lecture 10 Video" %}} 
 {{< tdclose >}}
 {{< tdopen >}}
 \<none>
@@ -291,10 +291,10 @@ other resources
 (May 6, 2020)
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 11 Slides](https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/11.%20Optimization%20and%20linear%20regression.pdf)
+{{% resource_link "83fe8f8f-7f50-40e7-976f-b1518de1b86f" "Lecture 11 Slides" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-﻿[Lecture 11 Video](https://mit.zoom.us/rec/play/uscrJO6s_W43GtzGuQSDVqB5W43uKq-sgHUZrqIEmk69AXhVZFOiN-FAa-JUrxTFKA3zRiz2ZyJnYDE?continueMode=true)  
+﻿{{% resource_link "1b9e2ff0-a21a-4dd8-9730-c81d9acda33a" "Lecture 11 Video" %}}  
 {{< tdclose >}}
 {{< tdopen >}}
 \<none>
@@ -314,13 +314,13 @@ other resources
 (May 11, 2020)
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 12 Slides](https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/12.%20Networks%20in%20epidemic%20modelling.pdf)
+{{% resource_link "04b7bc30-e841-417c-923b-e93329c44115" "Lecture 12 Slides" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-﻿[Lecture 12 Video](https://mit.zoom.us/rec/share/7M5REZPPyUdOUNbrzR2EaIMqRInjT6a8hilK_KcOz06Viec_gN-vfyXZdSpFR4x3)  
+﻿{{% resource_link "5d93c339-6837-47dd-8b92-dc8983d9490d" "Lecture 12 Video" %}}  
 {{< tdclose >}}
 {{< tdopen >}}
-[Networks](https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/12.%20Networks.ipynb) 
+{{% resource_link "889e52eb-c87d-4bdd-88fd-cf6582edac16" "Networks" %}} 
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -334,6 +334,6 @@ other resources
 
 {{< tableclose >}}
 
-Code content is licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Code content is licensed under the {{% resource_link "aeb344f0-c97c-4bdd-abee-bd2b6d27cc78" "MIT license" %}}.
 
-Text content is licensed under the [CC BY-NC-SA license](https://creativecommons.org/licenses/by-sa/4.0).
+Text content is licensed under the {{% resource_link "79270e0d-d44e-4c7d-89f0-4a6ac81cd018" "CC BY-NC-SA license" %}}.

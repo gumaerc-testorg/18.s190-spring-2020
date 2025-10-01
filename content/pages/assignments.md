@@ -9,7 +9,7 @@ title: Assignments
 uid: df9362ec-033d-93ba-4e66-7c54450719fa
 ---
 
-All of the materials linked on this page are available on the [original GitHub site developed for the course](https://github.com/mitmath/6S083/blob/master/syllabus.md).
+All of the materials linked on this page are available on the {{% resource_link "3bdca789-91af-49db-b0ba-f2ae03e3d724" "original GitHub site developed for the course" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -34,14 +34,14 @@ resources
 {{< tdopen >}}
 
 
-[Analyzing Covid-19 Data (md)](https://github.com/mitmath/6S083/blob/master/problem_sets/PS1.md)
+{{% resource_link "fedea487-95b0-493e-bf8a-97bd840e9023" "Analyzing Covid-19 Data (md)" %}}
 
-[Analyzing Covid-19 Data (pdf)](https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/problem_sets/PS1.pdf)
+{{% resource_link "8e4a3d32-8dd2-40b9-a69a-a54a2e4dac9c" "Analyzing Covid-19 Data (pdf)" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Interactiv Covid-19 Trajectory](https://aatishb.com/covidtrends/)
+{{% resource_link "40b2db04-1263-41dd-bbb7-9481f2a77332" "Interactiv Covid-19 Trajectory" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,9 +52,9 @@ resources
 {{< tdopen >}}
 
 
-[Probability and Modelling Recovery (md)](https://github.com/mitmath/6S083/blob/master/problem_sets/PS2.md)
+{{% resource_link "11bc5b59-a737-4f87-82db-31ba12e11ea9" "Probability and Modelling Recovery (md)" %}}
 
-[Probability and Modelling Recovery (pdf)](https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/problem_sets/PS2.pdf)
+{{% resource_link "aacc3aba-c88d-4db1-b374-5444d33c3fd8" "Probability and Modelling Recovery (pdf)" %}}
 
 
 {{< tdclose >}}
@@ -70,9 +70,9 @@ resources
 {{< tdopen >}}
 
 
-[Simple Epidemic Model (md)](https://github.com/mitmath/6S083/blob/master/problem_sets/PS3.md)
+{{% resource_link "d0c321fb-dd33-4ce4-a15c-78dd61b6020b" "Simple Epidemic Model (md)" %}}
 
-[Simple Epidemic Model (pdf)](https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/problem_sets/PS3.pdf)
+{{% resource_link "a18e4150-0833-4525-986c-599ff603e197" "Simple Epidemic Model (pdf)" %}}
 
 
 {{< tdclose >}}
@@ -88,9 +88,9 @@ resources
 {{< tdopen >}}
 
 
-[Spatial Epidemic Model (md)](https://github.com/mitmath/6S083/blob/master/problem_sets/PS4.md) 
+{{% resource_link "bbdc3e0e-a404-487d-93e2-afd29dbdc370" "Spatial Epidemic Model (md)" %}} 
 
-[Spatial Epidemic Model (pdf)](https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/problem_sets/PS4.pdf)
+{{% resource_link "9c8c629f-1710-4fa8-90b1-69e6f736789a" "Spatial Epidemic Model (pdf)" %}}
 
 
 {{< tdclose >}}
@@ -106,18 +106,18 @@ resources
 {{< tdopen >}}
 
 
-[Scientific Machine Learning (md)](https://github.com/mitmath/6S083/blob/master/problem_sets/PS5.md) 
+{{% resource_link "8260670f-5fd7-428e-836e-ed6d4d161203" "Scientific Machine Learning (md)" %}} 
 
-[Scientific Machine Learning (pdf)](https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/problem_sets/PS5.pdf)
+{{% resource_link "f2ae2f1a-b3a5-422c-8ddd-51c4bc93a263" "Scientific Machine Learning (pdf)" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[HW#5 Notebook Files](http://github.com/mitmath/6S083/blob/master/problem_sets/PS5.ipynb)
+{{% resource_link "e27de196-839a-4538-9621-a4dc7d6bccf8" "HW#5 Notebook Files" %}}
 
-[HW#5 Data Set](http://github.com/mitmath/6S083/blob/master/problem_sets/some_data.csv)
+{{% resource_link "2e9597c0-71f0-499a-bd8d-e2a824310b65" "HW#5 Data Set" %}}
 
 
 {{< tdclose >}}
@@ -126,4 +126,4 @@ resources
 
 {{< tableclose >}}
 
-Code content is licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Code content is licensed under the {{% resource_link "aeb344f0-c97c-4bdd-abee-bd2b6d27cc78" "MIT license" %}}.
